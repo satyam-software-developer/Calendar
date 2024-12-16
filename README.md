@@ -16,7 +16,7 @@ A Simple Calendar is a front-end web development project created with HTML, CSS,
 To use the Simple Calendar, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/simple-calendar.git
+    git clone https://github.com/satyam-software-developer/Calendar.git
 2. Open the project folder in your preferred code editor.
 3. Open the index.html file in a browser to view the calendar.
    
